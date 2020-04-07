@@ -1,0 +1,37 @@
+{
+  "field_1": "1",
+  "field_2": "1",
+  "field_3": 1,
+  "field_4": "2006-01-02T15:04:05Z",
+  "field_5": true,
+  "table_2": [
+    {
+      "field_1": "1",
+      "field_2": "1",
+      "field_3": 1,
+      "field_4": "2006-01-02T15:04:05Z",
+      "field_5": true
+    },
+    {
+      "field_1": "2",
+      "field_2": "2",
+      "field_3": 2,
+      "field_4": "2006-01-02T15:04:05Z",
+      "field_5": false
+    },
+    {
+      "field_1": "3",
+      "field_2": "3",
+      "field_3": 3,
+      "field_4": "2006-01-02T15:04:05Z",
+      "field_5": true
+    }
+  ],
+  "table_3": {
+    "field_1": "1",
+    "field_2": "1",
+    "field_3": 1,
+    "field_4": "2006-01-02T15:04:05Z",
+    "field_5": true
+  }
+}
